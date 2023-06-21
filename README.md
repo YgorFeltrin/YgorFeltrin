@@ -1,7 +1,8 @@
 ### Olá pessoal 👋
 
 ##### Sobre mim
-Estudante de programação Front-End.
+Tenho 18 anos, atualmente moro em Maringá, Paraná. 
+Sou estudante de programação FullStack.
 
 ### Detalhes
 

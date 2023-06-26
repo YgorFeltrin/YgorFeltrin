@@ -14,6 +14,8 @@ Sou estudante de programação FullStack.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ygorfeltrin&repo=MarioJump-Game&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ygorfeltrin&repo=LeagueOfLegends-Login&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorfeltrin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

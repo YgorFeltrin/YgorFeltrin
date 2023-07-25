@@ -10,8 +10,6 @@ Sou estudante de programação FullStack.
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ygorfeltrin&repo=TikTok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ygorfeltrin&repo=MarioJump-Game&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ygorfeltrin&repo=LeagueOfLegends-Login&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
